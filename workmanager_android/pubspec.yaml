@@ -1,4 +1,4 @@
-name: workmanager_android
+name: workmanager
 description: Android implementation of the workmanager plugin.
 version: 0.8.0
 # publish_to: none
